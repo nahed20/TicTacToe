@@ -18,21 +18,21 @@ When the game is loaded , the player click on cell to start play here the user w
 in case of non player win the reset button will restart game .</br>
 </br>
 **Technology and Tooles used:**</br>
-HTML </br>
-CSS</br>
-JavaScript </br>
-Jquary </br>      
+1-HTML </br>
+2-CSS</br>
+3-JavaScript </br>
+4-Jquary </br>      
 </br>
 **Further improvements:**</br>
-1-Keep track of multiple game rounds with a win counter .
-2-Allow players to customize their tokens ( name, picture, etc).
-3-Support networked multiplayer .
+1-Keep track of multiple game rounds with a win counter .</br>
+2-Allow players to customize their tokens ( name, picture, etc).</br>
+3-Support networked multiplayer .</br>
 4-Landing page with animtion effect ,emoji to the game display the winner .</br>
 </br>
-**-What was the most difficult part of the project?**
+**-What was the most difficult part of the project?**</br>
 javaScript coding (using event to call function )</br>
 </br>
-**-What was your favourite part to work on?**
+**-What was your favourite part to work on?**</br>
 HTML and CSS</br>
 
 </br>
