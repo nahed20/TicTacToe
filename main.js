@@ -66,31 +66,31 @@ function findWinner(){
 
     // middle row win
     else if (cell3 === cell4 && cell3===cell5 && cell3 !== '' ){
-        alert('Winner is' + cell3)
+        alert('The Winner is'+ " " + cell3)
     }
     // bottom row win
     else if (cell6 === cell7 && cell6===cell8 && cell6 !== ''){
-        alert('Winner is' + cell6)   
+        alert('The Winner is' + " " + cell6)   
     }
     // cross1 win
     else if (cell0 === cell4 && cell0===cell8 && cell0 !== '' ){
-        alert('Winner is' + cell0)
+        alert('The Winner is'+ " " + cell0)
     }
     // cross2 win
     else if (cell2 === cell4 && cell2===cell6 && cell2 !== ''){
-        alert('Winner is' + cell2)
+        alert('The Winner is' + " " + cell2)
     }
     // left colm
     else if (cell0 === cell3 && cell0===cell6 && cell0 !== '' ){
-        alert('Winner is' + cell0)
+        alert('The Winner is'+ " " + cell0)
     }
     //middl colm
     else if (cell1 === cell4 && cell1===cell7 && cell1 !== '' ){
-            alert('Winner is' + cell1)
+            alert('The Winner is'+ " " + cell1)
     }
     //rigth colm
     else if(cell2 === cell5 && cell2===cell8 && cell2 !=='' ){
-            alert("Winner is" + cell2)
+            alert("The Winner is"+ " " + cell2)
     }
 }
 
