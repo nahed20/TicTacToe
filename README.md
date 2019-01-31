@@ -4,22 +4,22 @@ built by Nahed Hawsawi
 ![alt text](project_1.PNG)
 
  Welcome to Tic Tac Toe , This is a simple game that I created with javascript/jquery/html/css skills. Most of the games I have seen online require two players, I  tried to creating a game where one player plays .</br>
-
+</br>
 **project Steps:**
-1-set the player o or x .
-2-allow human whether to play as x or o .
-3-display message for winner .
+1-set the player o or x .</br>
+2-allow human whether to play as x or o .</br>
+3-display message for winner .</br>
 4-Button to reset game .</br>
-
-**How to play ??**
+</br>
+**How to play ??**</br>
 When the game is loaded , the player click on cell to start play here the user will start with x then o ,by getting three in a row - either across, down, or diagonal.
 in case of non player win the reset button will restart game .</br>
 
-**Technology and Tooles used:**
-HTML 
-CSS
-JavaScript  
-Jquary   </br>      
+**Technology and Tooles used:**</br>
+HTML </br>
+CSS</br>
+JavaScript </br>
+Jquary </br>      
 
 **Further improvements:**</br>
 1-Keep track of multiple game rounds with a win counter .
@@ -35,15 +35,15 @@ HTML and CSS</br>
 
 
 **Resours and helpful:**</br>
-https://www.w3schools.com/
-https://developer.mozilla.org/en-US/
-https://github.com/
+https://www.w3schools.com/</br>
+https://developer.mozilla.org/en-US/</br>
+https://github.com/</br>
 
 
 **Acknowledgements/Thanks:**</br>
-Insturcurs :
-Mr.Mickael Finneran- michael.finneran@generalassemb.
-Mr.Usman Bashir - http://usmanbashir.com
-Mr.Moath Althawad - moath.faisal@generalassemb.ly
-Miss.Ghadeer 
-My Colleagues(female - male ).
+Insturcurs :</br>
+Mr.Mickael Finneran- michael.finneran@generalassemb.</br>
+Mr.Usman Bashir - http://usmanbashir.com </br>
+Mr.Moath Althawad - moath.faisal@generalassemb.ly </br>
+Miss.Ghadeer </br>
+My Colleagues(female - male ).</br>
